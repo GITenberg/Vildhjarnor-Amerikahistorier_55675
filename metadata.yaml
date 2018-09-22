@@ -1,0 +1,28 @@
+_repo: Vildhjarnor-Amerikahistorier_55675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strömberg, Sigge
+    aliases:
+    - Stromberg, Sigge
+    - Strömberg, Sigfrid Natanael
+    birthdate: 1885
+    deathdate: 1920
+    gutenberg_agent_id: '4234'
+    url: http://www.gutenberg.org/2009/agents/4234
+    wikipedia: http://sv.wikipedia.org/wiki/Sigge_Str%C3%B6mberg
+description: ''
+gutenberg_issued: '2017-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55675'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vildhjärnor
+
+  Amerikahistorier'
+url: http://www.gutenberg.org/ebooks/55675
